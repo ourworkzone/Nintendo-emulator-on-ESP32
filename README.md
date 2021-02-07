@@ -9,6 +9,14 @@ Enhanced version Nintendo Emulator for ESP32
 Requirements: ESP32 WEMOS D1 MINI, ST7789 LCD, MICROSD CARD slot,
 PCM5102 I2S AUDIO MODULE, OTHER PARTS...
 
+Also You need disable fix PSRAM cache: 
+in file (for example): C:\Users\<MYUSERNAME>\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.3\boards.txt
+
+```shell
+#esp32.menu.PSRAM.enabled.build.defines=-DBOARD_HAS_PSRAM -mfix-esp32-psram-cache-issue
+esp32.menu.PSRAM.enabled.build.defines=-DBOARD_HAS_PSRAM
+```
+
 
 ### FEATURES:
 
