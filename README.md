@@ -17,6 +17,8 @@ in file (for example): C:\Users\ {MYUSERNAME} \AppData\Local\Arduino15\packages\
 esp32.menu.PSRAM.enabled.build.defines=-DBOARD_HAS_PSRAM
 ```
 
+**INFO: I am preparing new version, coming soon.**
+
 
 ### FEATURES:
 
