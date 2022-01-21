@@ -19,6 +19,8 @@ esp32.menu.PSRAM.enabled.build.defines=-DBOARD_HAS_PSRAM
 
 **INFO: I am preparing new version, coming soon.**
 
+LINUX VERSION HERE:
+https://github.com/nathalis/NESCAT_LINUX
 
 ### FEATURES:
 
