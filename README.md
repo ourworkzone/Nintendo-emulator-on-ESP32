@@ -54,4 +54,8 @@ Only for personal & educational use!
 ![Image description](https://github.com/nathalis/NesCat/raw/main/Images/011.jpg)
 ![Image description](https://github.com/nathalis/NesCat/raw/main/Images/012.jpg)
 
+New version will be released soon (we are still working on it):
+
+![2021-11-20 at 10_11 PM](https://user-images.githubusercontent.com/52428568/150807421-afe76c12-6f6f-4a28-a477-9bc01201a1b4.jpeg)
+![2021-10-08 at 19-15-54](https://user-images.githubusercontent.com/52428568/150807435-685631af-9b5e-475a-8aba-f3b9d98b91d7.jpg)
 
